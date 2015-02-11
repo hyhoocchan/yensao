@@ -1,0 +1,86 @@
+
+.ajax-button {
+	float: left;
+	position: relative;
+}
+DIV.ajaxcartpro_progress{
+	position: absolute;
+	background-color: rgba(255, 255, 255, 0.7);
+	filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr=#99FFFFFF, endColorstr=#99FFFFFF)";
+	-ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr=#99FFFFFF, endColorstr=#99FFFFFF)";
+	height: 31px;
+	width: 100%;
+}
+DIV.ajaxcartpro_progress img{display: block;margin: 5px auto;}
+
+div.alert {
+	position: fixed;
+	left: 0;
+	right: 0;
+	margin: auto;
+	padding: 20px 10px 10px 10px;
+	text-align: center;
+	width: 402px;
+	background-color: #FFF;
+	z-index: 10010;
+	top: 0;
+	display: block;
+	border: 3px solid #1aa1e1;
+	border-top: none;
+}
+div.alert span{
+	float: left;
+	font-family: 'FontAwesome';
+	margin-top: -2px;
+	width: 21px;
+	height: 21px;
+	background: #383838;
+	color: #FFF;
+	font-size: 12px;
+	line-height: 21px;
+}
+div.alert p{
+	float: left;
+	padding: 0px 10px;
+	max-width: 340px;
+	width:100%;
+}
+div.alert p strong{text-transform: uppercase;font-weight: normal;}
+div.alert button{
+	float: right;
+	margin-top: -2px;
+	font-family: 'FontAwesome';
+	border: none;
+	z-index: 9999;
+	cursor: pointer;
+	color: #FFF;
+	width: 21px;
+	height: 21px;
+	background: #383838;
+	font-size: 12px;
+}
+div.alert button:hover{background:#1aa1e1;}
+div.alert a{
+	font-size: 12px;
+	background: #383838;
+	padding: 0px 10px;
+	float: right;
+	text-decoration: none;
+	margin: 10px 0px 0px 15px;
+	cursor: pointer;
+	color: #FFF;
+	height: 30px;
+	line-height: 30px;
+}
+div.alert a:hover{background:#1aa1e1;text-decoration:none;}
+
+
+
+
+
+
+
+
+
+
+

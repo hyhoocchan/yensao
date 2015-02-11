@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Kingento_Core>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Kingento_Core>
+    </modules>
+</config>
